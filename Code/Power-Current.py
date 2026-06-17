@@ -14,6 +14,7 @@ power = [
 721.0,788.0,884.0,933.0,
 1150.0,4527.0,7960.0,11480.0,14680.0,17820.0,21400.0,24560.0,27880.0,31130.0,34380.0
 ]
+
 current = [
 0.02,0.11,0.32,0.46,0.68,0.82,1.03,1.55,2.02,2.54,
 3.02,3.56,4.01,4.55,5.09,6.01,7.05,8.07,9.05,10.19,
@@ -31,14 +32,12 @@ current = [
 
 
 plt.figure(figsize=(8,5))
-
 plt.scatter(current, power, s=20, label="metingen")
 plt.plot(current, power, alpha=0.7)
-plt.yscale("log")
+#plt.yscale("log")
 plt.xlabel("Current (mA)")
 plt.ylabel("Power (µW)")
 plt.title("Laser L-I curve")
 plt.grid(True, which="both", ls=":")
 plt.legend()
-
 plt.show()
