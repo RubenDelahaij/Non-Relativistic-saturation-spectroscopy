@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ruben/Documents/GitHub/Non-Relativistic-saturation-spectroscopy/Manim_Practice/media/videos/animation/480p15/partial_movie_files/PendulumBob/1584795214_1803835392_223132457.mp4'
+file 'file:C:/Users/ruben/Documents/GitHub/Non-Relativistic-saturation-spectroscopy/Manim_Practice/media/videos/animation/480p15/partial_movie_files/PendulumBob/4072820271_1637832207_610689961.mp4'
+file 'file:C:/Users/ruben/Documents/GitHub/Non-Relativistic-saturation-spectroscopy/Manim_Practice/media/videos/animation/480p15/partial_movie_files/PendulumBob/4072820271_1903390115_248335903.mp4'
+file 'file:C:/Users/ruben/Documents/GitHub/Non-Relativistic-saturation-spectroscopy/Manim_Practice/media/videos/animation/480p15/partial_movie_files/PendulumBob/4072820271_1754310298_213689972.mp4'
+file 'file:C:/Users/ruben/Documents/GitHub/Non-Relativistic-saturation-spectroscopy/Manim_Practice/media/videos/animation/480p15/partial_movie_files/PendulumBob/4072820271_513473700_3462278326.mp4'
+file 'file:C:/Users/ruben/Documents/GitHub/Non-Relativistic-saturation-spectroscopy/Manim_Practice/media/videos/animation/480p15/partial_movie_files/PendulumBob/4072820271_3192234792_3462278326.mp4'
+file 'file:C:/Users/ruben/Documents/GitHub/Non-Relativistic-saturation-spectroscopy/Manim_Practice/media/videos/animation/480p15/partial_movie_files/PendulumBob/4072820271_2548852697_3462278326.mp4'
+file 'file:C:/Users/ruben/Documents/GitHub/Non-Relativistic-saturation-spectroscopy/Manim_Practice/media/videos/animation/480p15/partial_movie_files/PendulumBob/4072820271_902858819_3462278326.mp4'
+file 'file:C:/Users/ruben/Documents/GitHub/Non-Relativistic-saturation-spectroscopy/Manim_Practice/media/videos/animation/480p15/partial_movie_files/PendulumBob/4072820271_1754310298_329043017.mp4'
