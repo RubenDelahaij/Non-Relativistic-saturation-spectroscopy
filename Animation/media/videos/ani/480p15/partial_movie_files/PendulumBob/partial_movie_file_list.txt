@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/hasib/Downloads/manim practice/media/videos/ani/480p15/partial_movie_files/PendulumBob/1584795214_1005681236_223132457.mp4'
+file 'file:C:/Users/hasib/Downloads/manim practice/media/videos/ani/480p15/partial_movie_files/PendulumBob/4072820271_1637832207_2008971968.mp4'
+file 'file:C:/Users/hasib/Downloads/manim practice/media/videos/ani/480p15/partial_movie_files/PendulumBob/4072820271_1903390115_2453085740.mp4'
+file 'file:C:/Users/hasib/Downloads/manim practice/media/videos/ani/480p15/partial_movie_files/PendulumBob/4072820271_1754310298_2106018324.mp4'
+file 'file:C:/Users/hasib/Downloads/manim practice/media/videos/ani/480p15/partial_movie_files/PendulumBob/4072820271_513473700_2838473387.mp4'
+file 'file:C:/Users/hasib/Downloads/manim practice/media/videos/ani/480p15/partial_movie_files/PendulumBob/4072820271_3192234792_2838473387.mp4'
+file 'file:C:/Users/hasib/Downloads/manim practice/media/videos/ani/480p15/partial_movie_files/PendulumBob/4072820271_2548852697_2838473387.mp4'
+file 'file:C:/Users/hasib/Downloads/manim practice/media/videos/ani/480p15/partial_movie_files/PendulumBob/4072820271_902858819_2838473387.mp4'
+file 'file:C:/Users/hasib/Downloads/manim practice/media/videos/ani/480p15/partial_movie_files/PendulumBob/4072820271_1754310298_294875333.mp4'
